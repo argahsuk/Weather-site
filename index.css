@@ -1,0 +1,44 @@
+.output {
+    background: linear-gradient(to right, #f0eb9e, #d184fa);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0px 12px rgba(0, 0, 0);
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    height: 20vh; width: 30vh;
+    color: black;
+    position: relative;
+    bottom:-5vh;
+}
+body {
+    background: linear-gradient(to right, #1086ed, #00f2fe);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;}
+
+input{
+  
+    background: linear-gradient(to left, #e29118, #fafafd);
+    position: relative;
+    bottom: 5vh;
+    height: 5vh;
+    width: 30vh;
+    text-align: center;
+    right: -1vh;
+   color: black;
+   box-shadow: 0 0px 15px rgb(252, 251, 251);
+   border-radius: 20px ;
+}
+button{
+    background-color: orange;
+    border-radius: 15px;
+    position: relative;
+    bottom: 3vh;
+}
+h1{
+    position: relative;
+    top: -10vh;
+}
